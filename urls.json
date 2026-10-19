@@ -5,6 +5,6 @@
   { "url": "https://js-agent.newrelic.com", "isVisible": false },
   { "url": "https://workspace.google.com", "isVisible": false },
   { "url": "https://accounts.google.com", "isVisible": false },
-  { "url": "https://alerting.msahub.com", "isVisible": true },
+  { "url": "https://alerting.msahub.com", "isVisible": false },
   { "url": "https://n.clarity.ms/collect", "isVisible": false }
 ]
