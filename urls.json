@@ -1,7 +1,7 @@
 [
   { "url": "https://time.paycor.com/Kiosk/136737", "isVisible": true },
   { "url": "https://martinseggs.com/", "isVisible": true },
-  { "url": "https://eggs.org", "isVisible": true },
+  { "url": "http://192.168.1.1", "isVisible": true },
   { "url": "https://martinseggs.hopto.org:8084", "isVisible": true },
   { "url": "https://workspace.google.com", "isVisible": false },
   { "url": "https://accounts.google.com", "isVisible": false },
